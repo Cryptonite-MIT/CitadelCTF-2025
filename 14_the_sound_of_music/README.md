@@ -26,7 +26,3 @@ The flag is hidden in these digital footprints across music platforms and split 
 	`_n_then_they_were_n0where_t0_be_f0und}`
 
 ## Flag: `citadel{c0mputers_st0pped_exchang1ng_1nf0rmat10n_n_started_shar1ng_st0r1es_n_then_they_were_n0where_t0_be_f0und}`
-
-
-- Hint 1: You already found `citadweller`'s X account. Take a closer look at the link on their profile.
-
