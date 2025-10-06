@@ -22,7 +22,7 @@ You must take the corrupted file and repair it to reveal the true code that will
 - The magic bytes in the header that say `M1D1` have to be changed to `MThd` as that is the file [header](https://ccrma.stanford.edu/~craig/14q/midifile/MidiFileFormat.html) for a MIDI file. 
 - After making the modifications, saving it and opening it in a software that can visualize MIDI such as Audacity, the flag is shown.
 
-![midi.png](https://github.com/BlueKnight2345/CITADEL-FINAL/blob/main/12_schlagenheim/midi.png?raw=true)
+![midi.png](midi.png)
 
 ## Flag: `citadel{8lackM1D1wa5c00l}`
 
