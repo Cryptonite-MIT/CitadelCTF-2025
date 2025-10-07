@@ -4,7 +4,7 @@ Author: pseudonymous
 
 Category: Hardware
 
-Level: Medium
+Level: Hard
 
 ## Description
 Something shifts in the circuitry – slow and deliberate. Your badge brightens to its rim, and the corridor seems to lean toward this door. This is the last lock of this run: clear it, and the climb turns toward its final stretch. Beyond, the steps grow fewer and steeper, the keys heavier, the returns richer. The Citadel isn’t only blocking you; it’s deciding whether to trust you with what comes next.
